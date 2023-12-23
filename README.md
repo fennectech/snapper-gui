@@ -6,7 +6,7 @@ Snapper-gui is a graphical user interface for the tool [snapper](http://snapper.
 Dependencies
 -----------
 
-### ArchLinux:
+### ArchLinux & Fedora:
 	python3
 	gtk3
 	python-dbus
