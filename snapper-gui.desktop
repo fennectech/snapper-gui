@@ -1,9 +1,18 @@
 [Desktop Entry]
-Name=Snapper GUI
+Categories=Utilities;System;
+Comment[en_US]=Frontend for snapper snapshot manager
 Comment=Frontend for snapper snapshot manager
 Exec=snapper-gui
+GenericName[en_US]=
+GenericName=
 Icon=drive-harddisk
-Terminal=false
-Type=Application
+MimeType=
+Name[en_US]=Snapper GUI
+Name=Snapper GUI
+Path=
 StartupNotify=true
-Categories=Utilities;System;
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=true
+X-KDE-Username=root
